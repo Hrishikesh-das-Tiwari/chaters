@@ -1,6 +1,9 @@
 # Chaters
 Chaters is a real-time chat web application built using ReactJS and Firebase. The application allows users to sign up, create chat rooms, and chat with other users in real-time.
 
+## Website Link
+* https://chat-41a87.firebaseapp.com
+
 ## Features
 
 * User authentication using Firebase
